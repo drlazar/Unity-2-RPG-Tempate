@@ -104697,7 +104697,7 @@ MonoBehaviour:
   expText: {fileID: 938128773}
   playerNameText: {fileID: 883800286}
   lt: {fileID: 0}
-  invetory: []
+  inventory: []
 --- !u!1 &1845562377
 GameObject:
   m_ObjectHideFlags: 0
@@ -116377,6 +116377,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: bb6552f95949f41bc9711e551cc9b17f,
         type: 2}
+    - target: {fileID: 32171098, guid: e7f5f33f0e0fd462886360f392dfaf2a, type: 3}
+      propertyPath: startBranch
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3326231827330776580, guid: e7f5f33f0e0fd462886360f392dfaf2a,
         type: 3}
       propertyPath: m_LocalPosition.x
